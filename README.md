@@ -1,36 +1,29 @@
 <h1 align="center">Hello, I'm Anvit Naik 👋</h1>
 
 <p align="center">
-Cloud & DevOps Enthusiast | ECE Student | Tech Explorer
+  Tech Explorer
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Hey there! I'm **Anvit Naik**, an Electronics & Communication Engineering student passionate about **Cloud Computing, DevOps, and Software Development**.
 
 I enjoy learning new technologies and building projects that solve real-world problems. Currently, I'm focusing on **cloud technologies and automation tools** to become a skilled **Cloud / DevOps Engineer**.
 
-Always learning. Always building. 🚀
+Always learning. Always building. 
 
 ---
 
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash" />
+<img src="https://skillicons.dev/icons?i=python,c,js" />
 </p>
 
 ---
 
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux" />
-</p>
-
----
 
 ## 🌐 Web Development
 
@@ -68,14 +61,6 @@ Always learning. Always building. 🚀
 
 ---
 
-## 🌱 Currently Learning
-
-- AWS Cloud Architecture  
-- Kubernetes & Container Orchestration  
-- CI/CD Pipelines  
-- Infrastructure as Code  
-
----
 
 ## 📫 Let's Connect
 
