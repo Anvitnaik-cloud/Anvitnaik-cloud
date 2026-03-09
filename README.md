@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=ANVIT%20NAIK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141e30,100:243b55&height=200&section=header&text=ANVIT%20NAIK&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
-
 <p align="center">
   Tech Explorer
 </p>
