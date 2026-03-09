@@ -1,79 +1,88 @@
-<h1 align="center">Hi 👋, I'm Anvit Naik</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | ECE Student | Tech Explorer</h3>
+<h1 align="center">Hello, I'm Anvit Naik 👋</h1>
+
+<p align="center">
+Cloud & DevOps Enthusiast | ECE Student | Tech Explorer
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Electronics & Communication Engineering Student (2026)  
-💻 Passionate about **Cloud Computing, DevOps, and Full Stack Development**  
-🌱 Currently learning **AWS, Docker, Kubernetes, and Infrastructure Automation**  
-⚡ Interested in **building scalable cloud solutions and automation pipelines**  
+Hey there! I'm **Anvit Naik**, an Electronics & Communication Engineering student passionate about **Cloud Computing, DevOps, and Software Development**.
+
+I enjoy learning new technologies and building projects that solve real-world problems. Currently, I'm focusing on **cloud technologies and automation tools** to become a skilled **Cloud / DevOps Engineer**.
+
+Always learning. Always building. 🚀
 
 ---
 
-## 🔗 Connect With Me
+## 💻 Programming Languages
 
-- 💼 LinkedIn: https://www.linkedin.com/in/anvitnaik/
-- 💻 GitHub: https://github.com/Anvitnaik-cloud
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ☁️ Cloud & DevOps
 
-### ☁️ Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
-- GitHub Actions
-- Terraform (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux" />
+</p>
 
-### 💻 Programming
-- Python
-- JavaScript
-- C / C++
-- Bash
+---
 
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- Node.js
+## 🌐 Web Development
 
-### 🛢 Databases
-- MySQL
-- MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+## 🛠 Tools I Use
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anvitnaik-cloud&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anvitnaik-cloud&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anvitnaik-cloud&theme=tokyonight"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anvitnaik-cloud&theme=tokyonight" />
-</p>
+---
+
+## 🌱 Currently Learning
+
+- AWS Cloud Architecture  
+- Kubernetes & Container Orchestration  
+- CI/CD Pipelines  
+- Infrastructure as Code  
 
 ---
 
-## 📚 Currently Learning
+## 📫 Let's Connect
 
-- Cloud Architecture
-- Kubernetes Orchestration
-- CI/CD Pipelines
-- Infrastructure as Code
-
----
-
-## 🎯 Goals for 2026
-
-- Build real-world **Cloud & DevOps projects**
-- Contribute to **Open Source**
-- Earn **AWS / Cloud certifications**
-- Become a **Cloud Engineer / DevOps Engineer**
+📧 Email: your-email@example.com  
+💼 LinkedIn: https://www.linkedin.com/in/anvitnaik/  
+💻 GitHub: https://github.com/Anvitnaik-cloud  
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ Feel free to explore my repositories and connect with me!
