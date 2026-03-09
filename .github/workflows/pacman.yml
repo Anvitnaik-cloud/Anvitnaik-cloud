@@ -1,9 +1,9 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman Animation
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Anvitnaik-cloud
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman.svg?palette=github-dark&animation=pacman
+            dist/pacman-dark.svg?palette=github-dark&animation=pacman
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
