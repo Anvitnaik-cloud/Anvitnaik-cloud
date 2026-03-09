@@ -1,10 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=ANVIT%20NAIK&fontSize=55&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141e30,100:243b55&height=200&section=header&text=ANVIT%20NAIK&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cloud+Enthusiast;Full+Stack+Learner;Tech+Explorer" />
-</p>
 <p align="center">
   Tech Explorer
 </p>
