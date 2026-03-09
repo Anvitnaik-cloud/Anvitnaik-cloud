@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141e30,100:243b55&height=200&section=header&text=ANVIT%20NAIK&fontSize=60&fontColor=ffffff&animation=twinkling" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Anvit+Naik;Cloud+Enthusiast;Developer;Tech+Explorer" />
 </p>
 <p align="center">
   Tech Explorer
