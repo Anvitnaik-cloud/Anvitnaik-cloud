@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Anvit Naik 👋</h1>
+<h1 align="center">Hello, I'm Anvit Naik </h1>
 
 <p align="center">
   Tech Explorer
@@ -45,9 +45,13 @@ Always learning. Always building.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anvitnaik-cloud&show_icons=true&theme=tokyonight"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anvitnaik-cloud&theme=tokyonight"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anvitnaik-cloud/Anvitnaik-cloud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anvitnaik-cloud/Anvitnaik-cloud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anvitnaik-cloud/Anvitnaik-cloud/output/pacman-contribution-graph.svg">
+</picture>
 
 </p>
 
