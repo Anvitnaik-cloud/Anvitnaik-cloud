@@ -66,7 +66,7 @@ Always learning. Always building.
 
 ## 📫 Let's Connect
 
-📧 Email: your-email@example.com  
+📧 Email: anvitnaik470@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/anvitnaik/  
 💻 GitHub: https://github.com/Anvitnaik-cloud  
 
