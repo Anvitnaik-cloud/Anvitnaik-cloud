@@ -1,4 +1,6 @@
-<h1 align="center">Hello, I'm Anvit Naik </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=ANVIT%20NAIK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <p align="center">
   Tech Explorer
@@ -8,9 +10,9 @@
 
 ## About Me
 
-Hey there! I'm **Anvit Naik**, an Electronics & Communication Engineering student passionate about **Cloud Computing, DevOps, and Software Development**.
+Hey there! I'm **Anvit Naik**, an Computer Science Engineering student passionate about **Progamming, DevOps, and Software Development**.
 
-I enjoy learning new technologies and building projects that solve real-world problems. Currently, I'm focusing on **cloud technologies and automation tools** to become a skilled **Cloud / DevOps Engineer**.
+I enjoy learning new technologies and building projects that solve real-world problems. Currently, I'm focusing on **Software Technologies and automation tools** to become a skilled **Software / DevOps Engineer**.
 
 Always learning. Always building. 
 
@@ -30,15 +32,19 @@ Always learning. Always building.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ---
 
 ## 📊 GitHub Stats
